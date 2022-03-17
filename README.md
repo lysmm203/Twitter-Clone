@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter-Clone
 
 **Twitter-Clone* is a basic twitter app to read your tweets.
 
